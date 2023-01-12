@@ -1,0 +1,487 @@
+.header{
+	background: url(banner-bg.png);
+    background-repeat: no-repeat;   
+    background-size: 100% 100%;
+    height: 600px;
+}
+.header-2{
+    background: url(banner-bg.png);
+    height: 50px;
+}
+.header-2-inner{
+    display: flex;
+    justify-content: space-between;
+}
+.header-inner{
+	display: flex;
+	justify-content: space-between;
+}
+a.nav-items {
+    text-align: center;
+    color: white;
+    margin: 10px;
+    place-items: center;
+}
+.hdng h1 {
+    color: whitesmoke;
+    font-size: 60px;
+    margin-top: 87px;
+    margin-left: 35px;
+}
+.para p {
+    color: #fff;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+button.btn-a {
+    background-color: #ffd35a;
+    color: white;
+    border: 2px solid;
+    border-radius: 50px;
+    margin-left: 60px;
+    margin-top: 15px;
+    padding: 9px;
+    width: 196px;
+}
+.image img {
+    width: 100%;
+    margin-top: 67px;
+}
+.button-b {
+    margin-top: 11px;
+    margin-left: -402px;
+}
+button.btn-e {
+    width: 57%;
+    text-align: start;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 7px 3px #f3f3f3;
+    border: none;
+    padding: 11px;
+
+}
+button.btn-all {
+    color: white;
+    background: black;
+    padding: 10px 15px;
+    position: relative;
+    margin-right: -6px;
+}
+button.btn-s {
+    color: whitesmoke;
+    background-color: #ffd35a;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    width: 78px;
+    margin-left: -13px;
+}
+.cat{
+    border: 2px solid black;
+}
+.cat {
+    border: 2px solid #797979;
+    margin-top: 75px;
+    padding: 19px;
+    text-align: center;
+    border-radius: 100px;
+    place-items: center;
+}
+h5.cat-go{
+    color: #797979;
+}
+.cat-photu img {
+    height: 55px;
+    margin: 7px;
+    padding: 6px;
+}
+h6.cat-go {
+    font-size: 17px;
+}
+h1.go {
+    width: 100%;
+    font-size: 32px;
+    margin-top: 26px;
+}
+.Category-sec-2 {
+    margin-top: 75px;
+}
+.catt {
+    background-color: #faf8f8;
+    height: 360px;
+}
+h1.catt-hdng {
+    font-size: 25px;
+    text-align: center;
+}
+.catt.photu {
+    width: 100%;
+    height: 365px;
+    text-align: center;
+}
+img.photo {
+    margin-top: 79px;
+    height: 221px;
+    width: 88%;
+}
+input.see {
+    border: none;
+    text-align: center;
+    font-size: 20px;
+    margin-left: -27px;
+    margin-top: 26px;
+    background-color: #faf8f8;
+}
+.see {
+    margin-top: 34px;
+}
+a.b {
+    margin-top: 16px;
+    color: black;
+}
+.beauty-sec {
+    margin-top: 83px;
+    background: #faf8f8;
+    height: 500px;
+}
+img.beau {
+    margin: 20px;
+    padding-top: 30px;
+}
+h1.be {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 15px;
+}
+.u {
+    background: white;
+    height: 410px;
+    max-height: 100%;
+    margin-top: 46px;
+    margin-left: 20px;
+}
+.t {
+    background: white;
+    margin-left: 37px;
+    margin-top: 48px;
+}
+@media (min-width: 992px)
+{
+.col-lg-4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 100%;
+}
+}
+a.se-c {
+    color: black;
+    margin-left: 102px;
+}
+.see-c {
+    margin-top: 28px;
+}
+a.se {
+    color: black;
+    margin-left: 288px;
+}
+.see-b {
+    margin-top: 65px;
+}
+.fea{
+    display: flex;
+}
+.row-f{
+    display: flex;
+}
+.ea {
+    text-align: center;
+    margin-top: 80px;
+}
+h1.hdng-f {
+    font-size: 40px;
+    font-weight: bold;
+}
+    @media (min-width: 576px)
+    {
+.col-sm-5 {
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 100%;
+}
+}
+h1.hdng-fe {
+    text-align: center;
+    font-size: 33px;
+}
+p.para-f {
+    /* margin-top: 30px; */
+    padding: 15px 0px 0px;
+    font-size: 15px;
+}
+@media (min-width: 576px)
+{
+.col-sm-5 {
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 100%;
+}
+}
+.item {
+   box-shadow: 0px 1px 10px 1px #888888;
+    text-align: center;
+    width: 100%;
+    padding: 30px;
+}
+h1.fe {
+    font-size: 36px;
+}
+.item-2 {
+    box-shadow: 0px 1px 10px 1px #888888;
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    padding: 30px;
+}
+h1.feau {
+    font-size: 36px;
+}
+@media (min-width: 576px)
+{
+.col-sm-7 {
+    -ms-flex: 0 0 58.333333%;
+    flex: 0 0 58.333333%;
+    max-width: 100%;
+}
+}
+a.i-s {
+    margin-top: 100px;
+    color: black;
+}
+.frock {
+    box-shadow: 0px 1px 10px 1px #888888;
+    text-align: center;
+    padding: 30px;
+    height: 606px;
+    margin-left: 23px;
+}
+.customers {
+    padding: 100px;
+}
+a.i-s {
+    margin-top: 100px;
+    color: black;
+}
+img.photo-fea {
+    margin-top: 25px;
+}
+.cus {
+    text-align: center;
+    line-height: 2;
+}
+img.client-image {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+h1.client-name {
+    margin-left: 26px;
+    font-size: 20px;
+}
+p.client-view{
+    padding: 21px;
+}
+.content {
+    box-shadow: 0px 1px 10px 1px #888888;
+    background: white;
+}
+.peeche {
+  background: linear-gradient(
+    to right,
+    #753ae3 20%,
+     white 0%,
+    white 0%,
+    white 0% );
+  padding: 50px 30px 100px 30px;
+    height: 470px;
+    width: 1050px;
+}
+img.test {
+    padding: 22px;
+}
+.connect{
+    background: url("newsletter-bg.png");
+}
+h1.cnct-hdng {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    padding-top: 90px;
+}
+h2.cntnt-hdng-2 {
+    text-align: center;
+    color: white;
+    font-size: 55px;
+    padding: 10px;
+}
+p.cntn-para {
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+.cntnt-button {
+    padding: 50px;
+    text-align: center;
+}
+button.cntnt-btn {
+    width: 850px;
+    text-align: start;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 2px solid white;
+    background: none;
+    padding: 10px;
+    color: #9e6ae4;
+}
+button.cntnt-btn-2 {
+    border: none;
+    border-radius: 50px;
+    width: 196px;
+    height: 40px;
+    color: #5d447f;
+    position: relative;
+    margin-left: -209px;
+    font-size: 23px;
+    font-weight: 600;
+}
+.footer{
+    background: black;
+}
+.footer-content-inner{
+    display: flex;
+}
+h1.category-hdng {
+    color: white;
+    text-align: center;
+}
+
+p.category-para {
+    color: #b6b6b6;
+    text-align: center;
+    font-size: 15px;
+    margin-left: 52px;
+    margin-top: 25px;
+}
+
+h1.useful-hdng {
+    text-align: center;
+    color: white;
+}
+p.use-para {
+    text-align: center;
+    line-height: 3;
+    color: #b6b6b6;
+}
+h1.contact-hdng {
+    color: white;
+    text-align: center;
+}
+footer.footer-main {
+    color: #b6b6b6;
+    text-align: center;
+    margin-top: 20px;
+}
+h1.contact-hdng {
+    text-align: center;
+    color: white;
+}
+a.call {
+    color: #b6b6b6;
+    margin-left: 103px;
+    line-height: 3;
+    padding: 30px;
+}
+a.email {
+    color: #b6b6b6;
+    padding: 30px;
+    margin-left: 106px;
+    line-height: 2;
+}
+.footer {
+    background: black;
+    padding: 35px;
+}
+.footer-2{
+    background: black;
+    padding: 35px;
+    margin-top: 112px;
+}
+footer.footer-main {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+.footer-3{
+     background: black;
+    padding: 35px;
+}
+.con-hdng {
+    margin-top: 90px;
+    text-align: center;
+}
+h1.hedng-c {
+    font-size: 35px;
+    font-weight: 400;
+}
+.bat-kro {
+    display: flex;
+    margin-top: 80px;
+}
+textarea {
+    width: 491px;
+    height: 100px;
+}
+.form-group {
+    width: 491px;
+}
+@media (min-width: 768px)
+{
+.col-md-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    /* max-width: 50%; */
+}
+}
+@media (min-width: 768px)
+{
+.col-md-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    /* max-width: 50%; */
+}
+}
+button.send-btn {
+    width: 35%;
+    border: none;
+    height: 48px;
+    border-radius: 50px;
+    background: brown;
+}
+.button-c {
+    padding: 20px;
+}
+.footer-4{
+     background: black;
+    padding: 35px;
+    margin-top: 60px;
+}
+
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+  .row {
+    background-color: olive;
+  }
+}
